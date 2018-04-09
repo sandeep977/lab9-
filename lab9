@@ -212,7 +212,7 @@ void counting (node* temp)
  cout<<"\n5.RANGE SEARCH";
  cout<<"\n6.COUNTING THE ELEMENTS";
  cout<<"\n7.EXIT";
-//Praneet Nandan, 1711096
+
 int ch,x;
 do{
   cout<<"\nenter your choice (1-7): ";
